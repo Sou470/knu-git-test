@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrcap\\source\\repos\\\uBA85\uD488 C\u002B\u002B\\01 \uC5F0\uC2B5\uBB38\uC81C_1\\\uC5F0\uC2B5\uBB38\uC81C 2\uBC88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B4D815-6CE0-4AC7-B58E-A133B0775904}|\uC5F0\uC2B5\uBB38\uC81C 2\uBC88.vcxproj|C:\\Users\\mrcap\\source\\repos\\\uBA85\uD488 C\u002B\u002B\\01 \uC5F0\uC2B5\uBB38\uC81C_1\\\uC5F0\uC2B5\uBB38\uC81C 2\uBC88\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B4D815-6CE0-4AC7-B58E-A133B0775904}|\uC5F0\uC2B5\uBB38\uC81C 2\uBC88.vcxproj|solutionrelative:\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\mrcap\\source\\repos\\\uBA85\uD488 C\u002B\u002B\\01 \uC5F0\uC2B5\uBB38\uC81C_1\\\uC5F0\uC2B5\uBB38\uC81C 2\uBC88\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\source\\repos\\\uBA85\uD488 C\u002B\u002B\\01 \uC5F0\uC2B5\uBB38\uC81C_1\\\uC5F0\uC2B5\uBB38\uC81C 2\uBC88\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T15:40:21.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

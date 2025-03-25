@@ -1,0 +1,16 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
+int main() {
+	char input[100];
+	cout << "문자열 입력>>";
+	cin >> input;
+
+	for (int i = 1; i <= strlen(input); ++i) {
+		for (int j = 0; j < i; ++j) {
+			cout << input[j];
+		}
+		cout << '\n';
+	}
+	return 0;
+}
