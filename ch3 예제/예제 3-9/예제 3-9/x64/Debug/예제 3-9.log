@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\mrcap\source\repos\20250401\ch3 예제\예제 3-9\source.cpp(38,21): error C2248: 'PrivateAccessError::PrivateAccessError': private 멤버('PrivateAccessError' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\mrcap\source\repos\20250401\ch3 예제\예제 3-9\source.cpp(40,6): error C2248: 'PrivateAccessError::a': private 멤버('PrivateAccessError' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\mrcap\source\repos\20250401\ch3 예제\예제 3-9\source.cpp(42,7): error C2248: 'PrivateAccessError::f': private 멤버('PrivateAccessError' 클래스에서 선언)에 액세스할 수 없습니다.
