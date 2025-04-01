@@ -1,3 +1,2 @@
 ﻿  main.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-E:\git-20250327-folder\ch4 예제\예제 4-5\x64\Debug\예제 4-5.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+  예제 4-5.vcxproj -> C:\Users\mrcap\source\repos\20250401\ch4 예제\예제 4-5\x64\Debug\예제 4-5.exe

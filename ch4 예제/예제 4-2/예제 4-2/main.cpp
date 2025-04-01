@@ -22,7 +22,7 @@ int main() {
 	circleArray[2].setRadius(30);
 
 	for (int i = 0; i < 3; i++)
-		cout << "Circle " << i << "의 면적은" << circleArray[i].getArea() << endl;
+		cout << "Circle " << i << "의 면적은 " << circleArray[i].getArea() << endl;
 
 	Circle* p = circleArray;
 	for (int i = 0; i < 3; i++) {
