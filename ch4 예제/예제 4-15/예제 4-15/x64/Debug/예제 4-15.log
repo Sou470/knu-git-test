@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mrcap\source\repos\20250401\ch4 예제\예제 4-15\예제 4-15\main.cpp(19,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mrcap\source\repos\20250401\ch4 예제\예제 4-15\예제 4-15\main.cpp(23,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  예제 4-15.vcxproj -> C:\Users\mrcap\source\repos\20250401\ch4 예제\예제 4-15\x64\Debug\예제 4-15.exe

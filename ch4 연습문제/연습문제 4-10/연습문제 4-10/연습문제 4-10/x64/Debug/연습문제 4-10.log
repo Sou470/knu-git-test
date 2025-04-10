@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mrcap\source\repos\20250401\ch4 연습문제\연습문제 4-10\연습문제 4-10\main.cpp(24,11): error C2039: 'setName': 'Family'의 멤버가 아닙니다.
+C:\Users\mrcap\source\repos\20250401\ch4 연습문제\연습문제 4-10\연습문제 4-10\main.cpp(25,11): error C2039: 'setName': 'Family'의 멤버가 아닙니다.
+C:\Users\mrcap\source\repos\20250401\ch4 연습문제\연습문제 4-10\연습문제 4-10\main.cpp(26,11): error C2039: 'setName': 'Family'의 멤버가 아닙니다.

@@ -22,5 +22,7 @@ int main() {
 		sum += p[i];
 	}
 	cout << "Æò±Õ = " << sum / n << endl;
+
+	delete[] p;
 	return 0;
 }

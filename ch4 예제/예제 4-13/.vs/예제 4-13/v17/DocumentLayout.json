@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mrcap\\source\\repos\\20250401\\ch4 \uC608\uC81C\\\uC608\uC81C 4-13\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8C74BA-4EEF-4272-85C1-1422DABA5FBF}|\uC608\uC81C 4-13\\\uC608\uC81C 4-13.vcxproj|C:\\Users\\mrcap\\source\\repos\\20250401\\ch4 \uC608\uC81C\\\uC608\uC81C 4-13\\\uC608\uC81C 4-13\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8C74BA-4EEF-4272-85C1-1422DABA5FBF}|\uC608\uC81C 4-13\\\uC608\uC81C 4-13.vcxproj|solutionrelative:\uC608\uC81C 4-13\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mrcap\\source\\repos\\20250401\\ch4 \uC608\uC81C\\\uC608\uC81C 4-13\\\uC608\uC81C 4-13\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C 4-13\\main.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\source\\repos\\20250401\\ch4 \uC608\uC81C\\\uC608\uC81C 4-13\\\uC608\uC81C 4-13\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C 4-13\\main.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T14:52:03.222Z",
+              "EditorCaption": ""
             }
           ]
         },
