@@ -1,3 +1,2 @@
 ﻿  main.cpp
-E:\20250410\ch6 예제\ch6 예제\main.cpp(16,6): error C2084: 'int big(int [],int)' 함수에 이미 본문이 있습니다.
-E:\20250410\ch6 예제\ch6 예제\main.cpp(9): message : 'big'의 이전 정의를 참조하십시오.
+  ch6 예제.vcxproj -> C:\Users\mrcap\source\repos\20250410\ch6 예제\x64\Debug\예제 6-1.exe

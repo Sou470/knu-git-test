@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrcap\\source\\repos\\20250401\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02CAABB1-F24C-4405-ADCB-6261BF33FD9A}|\uC608\uC81C_12\\\uC608\uC81C_12.vcxproj|C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C_12\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CAABB1-F24C-4405-ADCB-6261BF33FD9A}|\uC608\uC81C_12\\\uC608\uC81C_12.vcxproj|solutionrelative:\uC608\uC81C_12\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCEE3E1-9F15-468D-8553-9D5331D481A6}|\uC608\uC81C 5-11\\\uC608\uC81C 5-11.vcxproj|C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C 5-11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCEE3E1-9F15-468D-8553-9D5331D481A6}|\uC608\uC81C 5-11\\\uC608\uC81C 5-11.vcxproj|solutionrelative:\uC608\uC81C 5-11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C 5-11\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C 5-11\\main.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C 5-11\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C 5-11\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T14:53:35.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C_12\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C_12\\main.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\source\\repos\\20250410\\ch5 \uC608\uC81C\\ch5 \uC608\uC81C \uBAA8\uC74C\\\uC608\uC81C_12\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C_12\\main.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T14:53:00.33Z",
+              "EditorCaption": ""
             }
           ]
         },
