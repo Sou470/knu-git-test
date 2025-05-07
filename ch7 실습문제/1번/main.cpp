@@ -64,8 +64,8 @@ Book& operator-=(Book& b, int x) {
 
 int main() {
 	Book a("청춘", 20000, 300), b("미래", 30000, 500);
-	a += 500;  // operator+=(a, 500) 호출
-	b -= 500;  // operator-=(b, 500) 호출
+	a += 500;  
+	b -= 500; 
 	a.show();
 	b.show();
 }
