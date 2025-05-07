@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88A87C41-AFDA-439D-852C-ED62EE48B03E}|1\uBC88\\1\uBC88.vcxproj|C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\1\uBC88\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A87C41-AFDA-439D-852C-ED62EE48B03E}|1\uBC88\\1\uBC88.vcxproj|solutionrelative:1\uBC88\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE572C74-1F8F-4857-8F22-36C30D65DB26}|11\uBC88\\11\uBC88.vcxproj|C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\11\uBC88\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE572C74-1F8F-4857-8F22-36C30D65DB26}|11\uBC88\\11\uBC88.vcxproj|solutionrelative:11\uBC88\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -28,27 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\11\uBC88\\main.cpp",
-              "RelativeDocumentMoniker": "11\uBC88\\main.cpp",
-              "ToolTip": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\11\uBC88\\main.cpp",
-              "RelativeToolTip": "11\uBC88\\main.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\1\uBC88\\main.cpp",
+              "RelativeDocumentMoniker": "1\uBC88\\main.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\1\uBC88\\main.cpp",
+              "RelativeToolTip": "1\uBC88\\main.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T04:14:11.076Z",
+              "WhenOpened": "2025-05-07T05:22:55.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\11\uBC88\\main.cpp",
+              "RelativeDocumentMoniker": "11\uBC88\\main.cpp",
+              "ToolTip": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\11\uBC88\\main.cpp",
+              "RelativeToolTip": "11\uBC88\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T05:21:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\9\uBC88\\main.cpp",
               "RelativeDocumentMoniker": "9\uBC88\\main.cpp",
               "ToolTip": "C:\\Users\\mrcap\\Desktop\\20250506\\ch7 \uC2E4\uC2B5\uBB38\uC81C\\9\uBC88\\main.cpp",
               "RelativeToolTip": "9\uBC88\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T04:10:07.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:15:58.11Z"
             }
           ]
         },
