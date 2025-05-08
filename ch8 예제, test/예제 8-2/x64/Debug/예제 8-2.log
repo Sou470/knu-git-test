@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(38,3): error C2248: 'Point::x': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(7): message : 'Point::x' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(39,3): error C2248: 'Point::y': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(7): message : 'Point::y' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(43,4): error C2248: 'Point::x': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(7): message : 'Point::x' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(44,4): error C2248: 'Point::y': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(7): message : 'Point::y' 선언을 참조하십시오.
+C:\Users\PC00\Desktop\20250508\ch8 예제, test\예제 8-2\main.cpp(5): message : 'Point' 선언을 참조하십시오.
