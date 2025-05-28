@@ -13,12 +13,12 @@ public:
 
 class Family {
 	string name;
-	Person* p; // Person 배열 포인터
-	int size; // Person 배열의 크기. 가족 구성원 수
+	Person* p; 
+	int size; 
 public:
-	Family(string name, int size); // size 개수만큼 Person 배열 동적 생성
+	Family(string name, int size); 
 	void setName(int index, string name);
-	void show(); // 모든 가족 구성원 출력
+	void show();
 	~Family();
 };
 
@@ -45,7 +45,7 @@ void Family::show() {
 }
 
 int main() {
-	Family* simpson = new Family("Simpson", 3); // 3명으로 구성된 Simpson 가족
+	Family* simpson = new Family("Simpson", 3); 
 	simpson->setName(0, "Mr. Simpson");
 	simpson->setName(1, "Mrs. Simpson");
 	simpson->setName(2, "Bart Simpson");

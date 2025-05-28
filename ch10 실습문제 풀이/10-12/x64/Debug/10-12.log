@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\mrcap\Desktop\C++ 예제 및 실습문제 풀이\ch10 실습문제 풀이\x64\Debug\10-12.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
